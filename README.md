@@ -1,0 +1,2 @@
+# helloGit
+learn git first
